@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Elfian;;;
 FN: Elfian Satria 
-ORG:Ministry of Education Malaysia;
-TITLE:Senior Principal Assistant Secretary\nEntrepreneurship Unit, Planning and Policy Coordination Division
-EMAIL;type=INTERNET;type=WORK;type=pref:elfian@moe.gov.my
+ORG:Biro Pengaduan Awam Negeri Perak;
+TITLE:Pengarah\nBiro Pengaduan Awam Negeri Perak\nJabatan Perdana Menteri
+EMAIL;type=INTERNET;type=WORK;type=pref:elfian@pcb.gov.my
 TEL;type=WORK;type=VOICE:+60 12 327 0040
-item1.ADR;type=WORK;type=pref:;;Level 3, No. 2, Tower 2\, \nP5/6 Avenue Precinct 5\, \n62200 Putrajaya\, Malaysia 
+item1.ADR;type=WORK;type=pref:;;Aras 2\, Bangunan Mayban Trust\nNo. 28\, Jalan Tun Sambanthan\n30000 Ipoh\nPerak\, Malaysia 
 item1.X-ABADR:sg
-item2.URL;type=pref:www.moe.gov.my
+item2.URL;type=pref:www.pcb.gov.my
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
